@@ -13,3 +13,10 @@
 #wall #tag-4{
   display: none;
 }
+#wall .parent #tag-5.slick {
+  display: none;
+}
+#wall #tag-4{
+  display: none;
+}
+
