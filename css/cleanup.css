@@ -1,4 +1,4 @@
 /* write your override styles here */
-#wall .tag1{
+#wall .tag1 #tag2{
   display: none;
 }
